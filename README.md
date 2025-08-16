@@ -34,16 +34,6 @@ The app is lightweight, easy to use, and gives quick access to medical info anyt
 - **Animation** – Smooth transitions.  
 - **Shared Preferences** – Local storage.  
 
----
-
-## 🎥 Demo Video  
-
-<p align="center">
-  <video src="demo/demo.mp4" width="70%" controls></video>
-</p>
-
----
-
 ## 🚀 Future Updates  
 
 - 🔔 **Medicine Reminders** – Notifications for doses.  
